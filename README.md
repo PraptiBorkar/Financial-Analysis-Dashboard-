@@ -1,5 +1,5 @@
 # 📊 Financial Performance Dashboard
-
+![Dashboard](financial-dashboard.png)
 
 ## 📌 Project Overview
 This project presents an interactive **Financial Performance Dashboard** built using Microsoft Excel.  
@@ -74,3 +74,19 @@ An area chart illustrating how profit changes throughout the year.
 ---
 
 ## 📁 Files Included
+
+- financial_analysis_dataset.xlsx
+- financial_dashboard_screenshot.png
+- README.md
+  
+---
+
+## 📌 Conclusion
+This project demonstrates how financial data can be transformed into actionable insights using Excel dashboards.  
+The dashboard enables quick performance monitoring and helps businesses identify trends, profitable regions, and high-performing product categories.
+
+---
+
+### 👩‍💻 Created By:
+Prapti Borkar  
+Metallurgical & Materials Engineering | Data Analytics Enthusiast
